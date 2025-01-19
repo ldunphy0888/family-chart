@@ -39,7 +39,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "d3": "6"
+    "d3": "^6.7.0"
   },
   "devDependencies": {
     "cypress": "^9.1.0",
